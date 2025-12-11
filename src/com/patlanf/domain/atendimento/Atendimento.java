@@ -9,8 +9,8 @@ import java.time.LocalTime;
 
 public class Atendimento {
     private Integer id;
-    private AtentimentoTipo tipo;
-    private AtentimentoStatus status;
+    private AtendimentoTipo tipo;
+    private AtendimentoStatus status;
     private String descricao;
     private LocalDate data;
     private LocalTime hora;
